@@ -1,0 +1,5 @@
+경기도 대기환경정보 1시간 평균자료 (2024050101~20250831249)
+경기도 대기환경정보 1시간 평균자료(~20240430)
+
+----data download ---
+https://data.gg.go.kr/portal/data/service/selectServicePage.do?infId=E20A4WR0UKVQFVTXNT7D33593740&infSeq=1
